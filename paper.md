@@ -2,8 +2,8 @@
 Aging of biomass burning aerosols over West Africa
 
 # Author
-Someone Else
-Gerard Capes
+Gerard Capes, the University of Manchester
+Someone Else, the School of There
 
 # Intro
 We present aircraft measurements of BBOA over West Africa.
