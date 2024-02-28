@@ -15,3 +15,6 @@ BBOA we don't know how scalable it is.
 
 # Methodology
 Something something Smith et al
+
+# Results
+Simulations indicate insights.
