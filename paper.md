@@ -18,3 +18,6 @@ Something something Smith et al
 
 # Results
 Simulations indicate insights.
+
+# Figures
+Here be figures.
